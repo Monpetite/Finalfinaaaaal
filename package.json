@@ -9,7 +9,7 @@
   "author": "Vanessa Camero helped by David Liendo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lightbox2": "^2.11.1"
   }
 }
